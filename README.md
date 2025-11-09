@@ -1,16 +1,35 @@
-## Hi there 👋
+# 💖 Hi, I’m Chai  
 
-<!--
-**chaicorcoro-cyber/chaicorcoro-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of the internet — I’m an **aspiring Cybersecurity Analyst** building my path from IT support and healthcare into the world of digital defense.  
 
-Here are some ideas to get you started:
+--- 💗 ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Google IT Support & Google Cybersecurity Certificates  
+- Linux, Networking, and Blue Team fundamentals  
+- SOC analysis and SIEM tools (Splunk, Wazuh, Wireshark)  
+
+--- 💗 ---
+
+## 🧠 My Focus
+I’m passionate about creating a safer, smarter digital world — one command at a time.  
+I blend analytical thinking from healthcare with curiosity for systems and security.  
+
+**Short-term goal:** Build my first home cyber lab 🖥️  
+**Long-term goal:** Land a Blue Team / SOC role in Ireland 🇮🇪  
+
+--- 💗 ---
+
+## 📂 Featured Project
+🔹 [Cybersecurity Portfolio Repository](https://github.com/yourusername/cybersecurity-portfolio)  
+_A collection of my learning projects, labs, and write-ups._  
+
+--- 💗 ---
+
+## 💌 Contact Me
+📧 **chai.corcoro@gmail.com**  
+🔗 [LinkedIn](https://linkedin.com/in/chaic)
+
+--- 💗 ---
+
+> 💡 _“Building my cyber foundation one command at a time.”_
