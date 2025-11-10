@@ -28,7 +28,7 @@ _A collection of my learning projects, labs, and write-ups._
 
 ## 💌 Contact Me
 📧 **chai.corcoro@gmail.com**  
-🔗 [LinkedIn](www.linkedin.com/in/chai-cc100889)
+🔗 [LinkedIn](https://www.linkedin.com/in/chai-cc100889/)
 
 --- 💗 ---
 
